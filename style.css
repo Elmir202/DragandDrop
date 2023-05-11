@@ -1,0 +1,34 @@
+section{
+    width: 800px;
+    height: 360px;
+    margin: 100px auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+div{
+    width: 200px;
+    height: max-content;
+    padding: 15px;
+    margin: 10px;
+    background-color: #fafafa;
+    box-sizing: border-box;
+}
+
+p{
+    background: #878484;
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
